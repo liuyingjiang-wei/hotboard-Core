@@ -1,7 +1,7 @@
 # wei-Core
 
 <div align="center">
-  <img src="https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=modern%20logo%20for%20wei-Core%20module%20with%20hot%20board%20icon%2C%20blue%20and%20white%20color%20scheme%2C%20clean%20design&image_size=square" alt="wei-Core Logo" width="128" height="128">
+  <img src="https://cdn.pixabay.com/photo/2025/06/28/17/56/forest-9685700_1280.jpg" alt="wei-Core Logo" width="128" height="128">
   <h3>热榜查询核心模块</h3>
   <p>快速获取多平台实时热点数据，掌握网络动态</p>
 </div>
