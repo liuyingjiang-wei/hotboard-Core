@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://cdn.pixabay.com/photo/2025/06/28/17/56/forest-9685700_1280.jpg" alt="wei-Core Logo" width="128" height="128">
+  <img src="https://cdn.pixabay.com/photo/2025/06/28/17/56/forest-9685700_1280.jpg" alt="wei-Core Logo" width="1024" height="512">
   <h3>热榜查询核心模块</h3>
   <p>快速获取多平台实时热点数据，掌握网络动态</p>
 </div>
