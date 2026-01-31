@@ -229,21 +229,3 @@ wei-Core 模块无需特殊配置，使用默认配置即可正常工作。
 2. 确保代码简洁，避免冗余和无用嵌套
 3. 提供完整的错误处理和边界情况处理
 4. 保持文档的同步更新
-
-## 许可
-
-wei-Core 模块遵循 XRK-AGT 项目的许可协议。
-
-## 联系方式
-
-如有问题或建议，可通过以下方式联系：
-
-- GitHub Issue：[XRK-AGT 项目](https://github.com/sunflowermm/XRK-AGT)
-- 官方文档：[XRK-AGT 文档](docs/README.md)
-
----
-
-<div align="center">
-  <p>由 <a href="https://github.com/sunflowermm/XRK-AGT">XRK-AGT 团队</a> 开发</p>
-  <p>© 2026 向日葵工作室</p>
-</div>
